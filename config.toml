@@ -1,0 +1,27 @@
+languageCode = "en-us"
+title = "Jewell.Solutions"
+baseurl = "http://jewell.solutions/"
+theme = "aerial"
+
+[params]
+  name = "Kyle Jewell"
+  about = "Providing a full stack approach to omnichannel commerce consulting.<br>Streamline who you go to, contact me to see how I can grow your small business."
+  copyright = "2018"
+  #Disable the scrolling background by entering any string for bg_scroll. Enable by leaving bg_scroll empty.
+  bg_scroll = ""
+  favicon = "favicon.ico"
+
+[[params.social]]
+  medium = "Twitter"
+  icon = "twitter"
+  link = "https://twitter.com/kylejewell"
+
+[[params.social]]
+  medium = "Facebook"
+  icon = "facebook"
+  link = "https://facebook.com/kylejewell"
+
+[[params.social]]
+  medium = "Email"
+  icon = "envelope-o"
+  link = "mailto:someone@example.com"
