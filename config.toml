@@ -4,7 +4,7 @@ baseurl = "http://jewell.solutions/"
 theme = "aerial"
 
 [params]
-  name = "Kyle Jewell"
+  name = "Jewell.Solutions"
   about = "Providing a full stack approach to omnichannel commerce consulting.<br>Streamline who you go to, contact me to see how I can grow your small business."
   copyright = "2018"
   #Disable the scrolling background by entering any string for bg_scroll. Enable by leaving bg_scroll empty.
@@ -17,11 +17,11 @@ theme = "aerial"
   link = "https://twitter.com/kylejewell"
 
 [[params.social]]
-  medium = "Facebook"
-  icon = "facebook"
-  link = "https://facebook.com/kylejewell"
+  medium = "LinkedIn"
+  icon = "linkedin"
+  link = "https://www.linkedin.com/in/kylejewell/"
 
 [[params.social]]
   medium = "Email"
-  icon = "envelope-o"
-  link = "mailto:someone@example.com"
+  icon = "paper-plane"
+  link = "mailto:kyle@jewell.solutions"
