@@ -26,3 +26,12 @@ theme = "aerial"
   medium = "Email"
   icon = "paper-plane"
   link = "mailto:kyle@jewell.solutions"
+
+  [[params.social]]
+    medium = "Schedule"
+    icon = "calendar"
+    link = "<!-- Calendly badge widget begin -->
+<link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
+<script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript"></script>
+<script type="text/javascript">Calendly.initBadgeWidget({url: 'https://calendly.com/kylejewell', text: 'Schedule Some TIme', color: '#ffffff', branding: true});</script>
+<!-- Calendly badge widget end -->"
