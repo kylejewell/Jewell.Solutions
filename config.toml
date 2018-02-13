@@ -4,11 +4,12 @@ baseurl = "http://jewell.solutions/"
 theme = "aerial"
 
 [params]
-  name = "Jewell.Solutions"
-  about = "Providing a full stack approach to omnichannel commerce consulting.<br>Streamline who you go to, contact me to see how I can grow your small business."
-  copyright = "2018"
+  logo = "https://s3.amazonaws.com/jewell.solutions/logo.png"
+  name = ""
+  about = "Streamline who you go to and utilize my full-stack omnichannel commerce solutions. Contact to see how I can help with your small business' content creation, marketing, and technology."
+  copyright = "2018 Jewell.Solutions"
   #Disable the scrolling background by entering any string for bg_scroll. Enable by leaving bg_scroll empty.
-  bg_scroll = ""
+  bg_scroll = "false"
   favicon = "favicon.ico"
 
 [[params.social]]
